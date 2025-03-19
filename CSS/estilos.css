@@ -1,7 +1,3 @@
-
-.batman { /*Se aplica una imagen de fondo*/
-      background-image:url(//IMG/header_background.jpeg);
-} 
 .spoiler {
     font-family: N;
     color: rgb(3, 13, 22);
@@ -61,7 +57,7 @@ table { /* Aplica un borde rojo a la tabla */
     margin: auto;
     border: #cc0707 1px solid;
 }
-th{ /* Aplica un colorrojo a la tabla */
+th{ /* Aplica un colo rrojo a la tabla */
     background-color: #cc0707;
     color: #fff;
 }
