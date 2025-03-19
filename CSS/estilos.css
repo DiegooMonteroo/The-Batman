@@ -45,7 +45,7 @@ td,th{
     padding: 10px;
 }
 .paraimagen{
-    background-image: url(/IMG/header_background.jpeg);
+    background-image: url('https://diegoomonteroo.github.io/The-Batman/IMG/header_background.jpeg');
     color: aliceblue;
     background-position: center center;
     background-repeat: no-repeat;
